@@ -1,4 +1,4 @@
-<h1 align="center"><b>🌚 ✨🎶ᴅᴏʀᴀ ᴍ𝓾sɪᴄ🎶✨ 🌚</b></h1>
+<h1 align="center"><b>✨🎶ᴅᴏʀᴀ ᴍ𝓾sɪᴄ🎶✨</b></h1>
 
 <h4 align="center">✨🎶ᴅᴏʀᴀ ᴍ𝓾sɪᴄ🎶✨A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
