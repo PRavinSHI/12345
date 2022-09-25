@@ -1,8 +1,8 @@
-<h1 align="center"><b>💙 ᬊᬁ࿔•Ⓥⓘⓥⓘ•࿐ᴍᴜsɪᴄ 💙</b></h1>
+<h1 align="center"><b>🌚 ✨🎶ᴅᴏʀᴀ ᴍ𝓾sɪᴄ🎶✨ 🌚</b></h1>
 
-<h4 align="center">ᬊᬁ࿔•Ⓥⓘⓥⓘ•࿐ᴍᴜsɪᴄ A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">✨🎶ᴅᴏʀᴀ ᴍ𝓾sɪᴄ🎶✨A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/SIXTH_H0KAGE"><img src="https://telegra.ph/file/d655c4b87d0176bbf93ec.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/SIXTH_H0KAGE"><img src="https://telegra.ph/file/bf5ecc1467cedc384dfd6.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/otakubinge/VIVI-MUSIC-ROBOT/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> [DEMO BOT](https://t.me/ViviXsuperMusicBot)
+> [DEMO BOT](http://t.me/D0ramusicbot)
 
 
 > [WATCH TUTORIAL](https://youtu.be/egLo_rWDLVU)
